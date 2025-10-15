@@ -1,0 +1,3 @@
+"name": "Java(17)"
+"image": "mcr.microsoft.com/devcontainers/base:ubuntu"
+"features:{}"
